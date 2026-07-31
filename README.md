@@ -1,9 +1,7 @@
-# 👨🏽‍💻 Gilvam Gomes  
-
 **`Técnico em TI | Formado em Segurança da Informação `**  
 
 ### 📚 Atualmente estudando  
- 
+ - 🌐 Desenvolvimento Web (*Curso de Desenvolvedor Web na ETG-DF*)
 ---
 
 ### 📊 Estatísticas  
